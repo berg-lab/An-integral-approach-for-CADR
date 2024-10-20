@@ -8,5 +8,5 @@ authors:
 title: "Evaluation of Uncertainty Propagation for various Equivalent Clean Air (ECA) formulas using Monte Carlo Analysis"
 version: 2.0.4
 doi:
-date-released: 2017-12-18
+date-released: 2024-10-20
 url: "https://github.com/berg-lab/Indoor-Air-Quality/blob/main/CADR%20MC%20Analysis.ipynb"
